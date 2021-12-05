@@ -1,10 +1,8 @@
-<table>
-  <tr style="border: 0px">
-    <td style="border: 0px"><img src="./img/aws-certified-developer-associate.png"></img></td>
-    <td style="border: 0px"><img src="./img/aws-certified-sysops-administrator-associate.png"></img></td>
-    <td style="border: 0px"><img src="./img/aws-certified-solutions-architect-associate.png"></img></td>
-  </tr>
-</table>
+<p float="left">
+<img src="./img/aws-certified-developer-associate.png" width="100">
+<img src="./img/aws-certified-sysops-administrator-associate.png" width="100">
+<img src="./img/aws-certified-solutions-architect-associate.png" width="100">
+</p>
 
 * ☁️ I'm interested in cloud
 * 🇩🇪 I'm currently learning German
