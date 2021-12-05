@@ -1,11 +1,5 @@
-<style>
-td, th {
-   border: none!important;
-}
-</style>
-
 <table>
-  <tr>
+  <tr style="border: 0px">
     <td><img src="./img/aws-certified-developer-associate.png"></img></td>
     <td><img src="./img/aws-certified-sysops-administrator-associate.png"></img></td>
     <td><img src="./img/aws-certified-solutions-architect-associate.png"></img></td>
