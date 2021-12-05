@@ -1,8 +1,8 @@
 <table>
   <tr style="border: 0px">
-    <td><img src="./img/aws-certified-developer-associate.png"></img></td>
-    <td><img src="./img/aws-certified-sysops-administrator-associate.png"></img></td>
-    <td><img src="./img/aws-certified-solutions-architect-associate.png"></img></td>
+    <td style="border: 0px"><img src="./img/aws-certified-developer-associate.png"></img></td>
+    <td style="border: 0px"><img src="./img/aws-certified-sysops-administrator-associate.png"></img></td>
+    <td style="border: 0px"><img src="./img/aws-certified-solutions-architect-associate.png"></img></td>
   </tr>
 </table>
 
