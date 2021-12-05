@@ -5,5 +5,4 @@
 </p>
 
 * ☁️ I'm interested in cloud
-* 🇩🇪 I'm currently learning German
-* ✉️ How to reach me: **[t.me/petr_reichl](http://t.me/petr_reichl)**
+* ✉️ Reach me: **[t.me/petr_reichl](http://t.me/petr_reichl)**
