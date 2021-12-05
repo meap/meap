@@ -1,4 +1,4 @@
-[![Meap's GitHub stats](https://github-readme-stats.vercel.app/api?username=meap&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Meap's GitHub stats](https://github-readme-stats.vercel.app/api?username=meap&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <p float="left">
 <img src="./img/aws-certified-developer-associate.png" width="100">
